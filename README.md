@@ -12,7 +12,7 @@ A static, multi-page explainer on the proposed Union Pacific / Norfolk Southern 
 - `houston-data.html` - Blocked crossings, idling trains, train length (FRA data)
 - `impacts.html` - Transportation, cancer clusters, truck traffic, Settegast expansion
 - `discrepancies.html` - Where UP's public claims and filings diverge
-- `action.html` - File a comment, attend hearings, share your story
+- `action.html` - Sign the resident statement (lindsaywil4.github.io/stb-statement), file a comment, attend the hearing
 
 ## Deploy to GitHub Pages
 
@@ -36,3 +36,6 @@ Each fact carries a `SOURCE` line naming the STB filing number, FRA dataset, let
 - Verify filing citations against the STB filing search (Docket FD 36873) before publishing updates.
 - FRA blocked-crossing figures come from the public portal data (fra.dot.gov/blockedcrossings), 2021 through mid-2026 extracts.
 
+## Change log
+
+- **Oct 1, 2026.** Timeline through Sept 30 and the schedule to final decision; corrected review thresholds (50% tonnage, OEA +4.00/+4.26 trains/day); fifth vintage of Houston numbers and the Settegast contradiction (EI-34309); withdrawn, disavowed, and affiliated support letters; Texas AG, BNSF Gulf Coast condition, RPA, NLC; Take Action now leads with the resident statement page and the Nov 18, 2026 deadline; deadline strip added to every page.

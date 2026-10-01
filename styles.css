@@ -414,3 +414,9 @@ footer.site {
   color: var(--steel);
 }
 .footer-inner p { max-width: none; margin-bottom: 0.5rem; }
+
+/* Call-to-action strip (added Oct 2026) */
+.cta-strip { background: var(--yellow); color: var(--ink); border-bottom: 2px solid var(--ink); }
+.cta-inner { max-width: 60rem; margin: 0 auto; padding: 0.6rem 1rem; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; justify-content: space-between; font-size: 0.92rem; }
+.cta-inner a { color: inherit; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+.action-card.primary { border-width: 3px; background: var(--yellow-soft); }
